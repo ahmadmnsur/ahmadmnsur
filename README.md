@@ -14,7 +14,7 @@
 <div align= "center">
   <h2>Skills</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,java,git,github,vim,vscode" />
   </a>
 </div>
 <div align ="center">
