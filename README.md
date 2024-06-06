@@ -11,10 +11,3 @@
     <h4>I'm a Driven Student at 42 Beirut</h4>
     <p>I'm currently immersed in the innovative learning environment at 42 Beirut, a school that's pushing the boundaries of tech education. Here, I'm actively developing my skills to become a future-proof software developer.</p>
 </div>
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p> 
-</div>
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadmnsur&theme=dark" alt="GitHub Streak" /></a>
-</div>
