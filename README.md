@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hoNXJsc3E2bDl5a3kwOTBwbXlpMXdncTE4bWFvYjFwYjJ1Mmp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hoNXJsc3E2bDl5a3kwOTBwbXlpMXdncTE4bWFvYjFwYjJ1Mmp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
 </div>
 <div align="center">
     <h1>
@@ -18,6 +18,6 @@
   </a>
 </div>
 <div align ="center">
-  <h2>Connect Me</h2>
+  <h2>Connect With Me</h2>
   <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on LinkedIn. Let's team up and build a brighter digital future!</p>
 </div>
