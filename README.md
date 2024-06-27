@@ -17,7 +17,26 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,java,git,github,vim,vscode" />
   </a>
 </div>
+
 <div align ="center">
   <h2>Connect With Me</h2>
   <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on LinkedIn. Let's team up and build a brighter digital future!</p>
 </div>
+
+<h2 align="center"> My 42 Common Core Projects:</h2>
+<table align="center">
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/ahmadmnsur/42_get_next_line">get_next_line</a></td>
+    <td>Read from a file line by line</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/ahmadmnsur/42_Libft">Libft</a></td>
+    <td>Create your first library</td>
+    <td>✅</td>
+    
+  </tr>
+</table>
+ </table>
