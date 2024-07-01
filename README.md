@@ -25,6 +25,12 @@
 
 <h2 align="center"> My 42 Common Core Projects:</h2>
 <table align="center">
+    <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/ahmadmnsur/42_printf">printf</a></td>
+    <td>Create my own printf</td>
+    <td>✅</td>
+  </tr>
   <tr>
     <td>2.</td>
     <td><a href="https://github.com/ahmadmnsur/42_get_next_line">get_next_line</a></td>
