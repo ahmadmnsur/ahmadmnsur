@@ -11,16 +11,12 @@
     <h4>I'm a Driven Student at 42 Beirut</h4>
     <p>I'm currently immersed in the innovative learning environment at 42 Beirut, a school that's pushing the boundaries of tech education. Here, I'm actively developing my skills to become a future-proof software developer.</p>
 </div>
+
 <div align= "center">
   <h2>Skills</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,java,git,github,vim,vscode" />
   </a>
-</div>
-
-<div align ="center">
-  <h2>Connect With Me</h2>
-  <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on LinkedIn. Let's team up and build a brighter digital future!</p>
 </div>
 
 <h2 align="center"> My 42 Common Core Projects:</h2>
@@ -46,3 +42,8 @@
   </tr>
 </table>
  </table>
+ 
+<div align ="center">
+  <h2>Connect With Me</h2>
+  <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on <a href ="https://www.linkedin.com/in/ahmad-mansour-192766209/">LinkedIn</a> . Let's team up and build a brighter digital future!</p>
+</div>
