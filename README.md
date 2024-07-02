@@ -45,5 +45,5 @@
  
 <div align ="center">
   <h2>Connect With Me</h2>
-  <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on <a href ="https://www.linkedin.com/in/ahmad-mansour-192766209/" target = "_blank">LinkedIn</a> . Let's team up and build a brighter digital future!</p>
+  <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on <a href ="https://www.linkedin.com/in/ahmad-mansour-192766209/" target="_blank">LinkedIn</a> . Let's team up and build a brighter digital future!</p>
 </div>
