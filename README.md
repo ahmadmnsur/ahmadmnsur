@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hoNXJsc3E2bDl5a3kwOTBwbXlpMXdncTE4bWFvYjFwYjJ1Mmp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
 </div>
@@ -42,6 +43,8 @@
   </tr>
 </table>
  </table>
+ 
+ ![ahmmanso's 42 stats](https://badge.mediaplus.ma/binary/ahmmanso?UM6P=off)
  
 <div align ="center">
   <h2>Connect With Me</h2>
